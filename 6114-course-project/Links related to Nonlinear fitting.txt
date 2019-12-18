@@ -1,0 +1,11 @@
+1. Nonlinear fit 
+https://commons.apache.org/proper/commons-math/userguide/fitting.html
+
+2. Gaussian fit
+https://commons.apache.org/proper/commons-math/apidocs/org/apache/commons/math4/fitting/GaussianCurveFitter.html
+
+3. Extreme Value Type I distribution
+http://www.mathwave.com/articles/extreme-value-distributions.html#evd_gumbel
+
+4. Applying Gaussian fit using obtained parameters from fit
+https://www.graphpad.com/guides/prism/7/curve-fitting/reg_how_to_gaussian.htm?toc=0&printWindow
