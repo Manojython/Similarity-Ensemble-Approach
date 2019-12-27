@@ -26,8 +26,3 @@ To run the parallel code start the `run-parallel.sh` script in your terminal wit
 $ ./run-parallel.sh /path/to/java/bin
 ```
 
-## Notice
-
-All parallel code currently requires a path to a java1.8 installation. Otherwise the Parallel library will fail, a acceptable restriction. If you face issues contact cmicklis@uncc.edu to receive a complete zip of the library included with the `student-provided_java` code. 
-
-Kind Regards
